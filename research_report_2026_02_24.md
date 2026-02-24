@@ -334,17 +334,22 @@ Z*(ω) = R_∞ + (R₀ − R_∞) / [1 + (jωτ)^α]
 ### 선거 전 포지셔닝 (2026년 3~10월)
 | ETF | 근거 | 비중 |
 |-----|------|------|
-| XLV (헬스케어) | 역사적 선거 전 아웃퍼폼 | 25% |
-| ITA (방산항공) | 초당적 국방 예산 + AI+방산 | 20% |
+| XLV (헬스케어) | 역사적 선거 전 아웃퍼폼, ACA 복원 기대 | 25% |
+| ITA (방산항공) | 초당적 국방 예산 + AI+방산 복합 사이클 | 20% |
 | USMV (최소변동성) | 변동성 확대 구간 헤지 | 15% |
-| TLT (장기 국채) | 연준 금리 인하 기대 | 15% |
+| TLT (장기 국채) | 연준 금리 인하 기대(50bp, 2회) | 15% |
+| XLU (유틸리티) | AI 데이터센터 전력 수요, 방어적 배당 | 15% |
+| 현금/단기채 | 선거 후 기회 대기 | 10% |
 
-### 선거 후 포지셔닝 (2026년 11월~)
+### 선거 후 포지셔닝 (2026년 11월~2027년)
 | ETF | 근거 | 비중 |
 |-----|------|------|
 | XLK (기술) | 포스트 미드텀 랠리 최대 수혜 | 30% |
-| XLI (산업재) | 인프라 지출 + 리쇼어링 | 20% |
-| EWY (MSCI 한국) | 한미 무역 협상 타결 기대 | 15% |
+| XLI (산업재) | 인프라 지출 + 리쇼어링 + 리빌딩 | 20% |
+| EWY (MSCI 한국) | 한미 무역 협상 타결 기대, KOSPI 6,000 전망 | 15% |
+| XLV (헬스케어) | 정책 명확화 후 M&A 사이클 재개 | 15% |
+| ARKK/AI 테마 ETF | 금리 인하 재개 시 고성장주 레버리지 | 10% |
+| XLE (에너지) | 분점 정부 하에서 전통 에너지 안정 | 10% |
 
 ## 4. 하원 구성 변화 시나리오
 
@@ -355,10 +360,15 @@ Z*(ω) = R_∞ + (R₀ − R_∞) / [1 + (jωτ)^α]
 | C: 분점 정부 | 역설적으로 시장 친화적, 방어주 안정 |
 
 ## 참고문헌 (주제 5)
-1. Morgan Stanley. (2026). 7 Political Trends Investors Should Watch in 2026
-2. Capital Group. Can midterm elections move markets? 5 charts to watch
-3. CNBC. (2026/02/21). Trump to hike global tariffs to 15%
-4. Macquarie / Yahoo Finance. South Korea's KOSPI market outlook for 2026
+1. Morgan Stanley. (2026). "7 Political Trends Investors Should Watch in 2026." https://www.morganstanley.com/insights/articles/investor-guide-political-trends-2026
+2. Brookings Institution. "What history tells us about the 2026 midterm elections." https://www.brookings.edu/articles/what-history-tells-us-about-the-2026-midterm-elections/
+3. Capital Group. "Can midterm elections move markets? 5 charts to watch." https://www.capitalgroup.com/advisor/insights/articles/midterm-elections-markets-5-charts.html
+4. Interactive Brokers. "S&P 500 Seasonality and Presidential Cycles." https://www.interactivebrokers.com/campus/traders-insight/securities/technical-analysis/sp-500-seasonality-and-presidential-cycles-what-historical-patterns-suggest-for-2026/
+5. CNBC. (2026/02/21). "Trump to hike global tariffs to 15%." https://www.cnbc.com/2026/02/21/trump-tariffs.html
+6. Federal Reserve. (2026/01/28). FOMC Minutes. https://www.federalreserve.gov/monetarypolicy/fomcminutes20260128.htm
+7. AFCEA. "Trump announces $500B AI Stargate investment." https://www.afcea.org/signal-media/president-trump-announces-500-billion-investment-ai
+8. Yahoo Finance / Macquarie. "South Korea KOSPI market outlook for 2026." https://finance.yahoo.com/news/south-korea-kospi-market-outlook-153742250.html
+9. EBC. "EWY ETF Forecast — South Korea stocks." https://www.ebc.com/forex/ewy-etf-forecast-what-s-next-for-south-korea-stocks
 
 ---
 
@@ -506,15 +516,23 @@ USGS 추산: 완전한 갈륨·게르마늄 수출 금지 시 미국 GDP **34억
 
 **수혜 종목:** 덕산네오룩스(213420), 솔루스첨단소재(336370), 신에쓰화학(4063.JP)
 
-**ETF:**
-- `REMX` (VanEck Rare Earth): 희토류 공급망 리스크 프리미엄
+**ITO 시장 규모:** 2025년 **18억 4,000만 달러** → 2030년 22억 7,000만 달러. 인듐은 현재 중국 공식 통제 리스트 외이나 잠재 위험 소재.
+
+**글로벌 ETF:**
+- `REMX` (VanEck Rare Earth): 수출 통제 재강화 시 급등 경향
 - `SOXX` (반도체): 소재 공급망 안정화 최종 수혜자
+- `LIT` (글로벌 리튬·배터리): 흑연·리튬 공급망 재편 수혜
 
 ## 참고문헌 (주제 8)
-1. Global Trade Alert. Chinese Export Controls on Critical Raw Materials
-2. CSIS. The Consequences of China's New Rare Earths Export Restrictions
-3. Omdia. (2025년 9월). OLED materials localization
-4. USGS. (2024). Indium - Mineral Commodity Summaries 2024
+1. Global Trade Alert. "Chinese Export Controls on Critical Raw Materials." https://globaltradealert.org/blog/chinese-export-controls-on-critical-raw-materials-inventory
+2. CSIS. "The Consequences of China's New Rare Earths Export Restrictions." https://www.csis.org/analysis/consequences-chinas-new-rare-earths-export-restrictions
+3. Omdia. (2025년 9월). "Display Dynamics: China and South Korea OLED Makers on Materials Localization." https://omdia.tech.informa.com/om139255/display-dynamics--september-2025-china-and-south-korea-oled-makers-work-hard-on-oled-materials-localization
+4. USGS. (2024). "Indium - Mineral Commodity Summaries 2024." https://pubs.usgs.gov/periodicals/mcs2024/mcs2024-indium.pdf
+5. 전자신문. (2024/08/22). LG디스플레이 청색 인광 OLED 패널 개발 성공. https://www.etnews.com/20240822000039
+6. Pillsbury Law. (2025/11). "China Suspends Export Controls on Certain Critical Minerals." https://www.pillsburylaw.com/en/news-and-insights/china-suspends-export-controls-certain-critical-minerals-related-items.html
+7. IEEE Spectrum. "Carbon Nanotube Solution Could Eliminate Need for ITO in Electronic Displays." https://spectrum.ieee.org/carbon-nanotube-solution-could-eliminate-need-for-indium-tin-oxide-in-electronic-displays
+8. Vision Times. (2025/11/30). "Japan Pulls Critical Chip Materials from China." https://www.visiontimes.com/2025/11/30/japan-pulls-critical-chip-materials-from-china-escalating-tech-war.html
+9. TrendForce. (2025/11). "Japan Ramps Up Photoresist Investment for 2nm Chips." https://www.trendforce.com/news/2025/11/06/news-japan-ramps-up-photoresist-investment-for-2nm-chips-tokyo-ohka-kogyo-jsr-lead-the-charge/
 
 ---
 
@@ -570,15 +588,18 @@ AI 튜터링 서비스 시장: 2025년 기준 **37억 달러**
 - 기본 300명 × 3만 원 = 월 900만 원
 - 프리미엄 100명 × 8만 원 = 월 800만 원
 - 기업 20개사 × 20만 원 = 월 400만 원
-- **합계 월 약 2,100만 원 (연간 약 2.5억 원)**
+- 분기 세미나 4회 × 200만 원 = 월 평균 267만 원
+- **합계 월 약 2,367만 원 (연간 약 2.8억 원)**
 
 **플랫폼 인프라:** 초기 Substack + 디스코드 → 성장 후 Circle.so
 
 ## 참고문헌 (주제 9)
-1. Coursera Investor Relations. (2025). Full Year 2024 Financial Results
-2. Duolingo Investor Relations. Shareholder Letter Q4/FY 2024
-3. 삼일PwC경영연구원. (2024). Paradigm Shift Vol.6: 초개인화 학습의 혁명
-4. Betanews. (2025). 클래스101, 창립 이래 첫 연간 흑자 달성
+1. Coursera Investor Relations. (2025). "Fourth Quarter and Full Year 2024 Financial Results." https://investor.coursera.com/news/news-details/2025/Coursera-Reports-Fourth-Quarter-and-Full-Year-2024-Financial-Results/default.aspx
+2. Chief AI Officer. "How Duolingo's AI-First Strategy Drove 51% User Growth and $1B Revenue Forecast." https://chiefaiofficer.com/blog/how-duolingos-ai-first-strategy-drove-51-user-growth-and-1-billion-revenue-forecast/
+3. Prosperity for America. "Khan Academy Statistics." https://www.prosperityforamerica.org/khan-academy-statistics/
+4. 삼일PwC경영연구원. (2024년 2월). "Paradigm Shift Vol.6: 초개인화 학습의 혁명." https://www.pwc.com/kr/ko/insights/samil-insight/samilpwc_paradigm-shift06_feb2024.pdf
+5. Betanews. (2025). "클래스101, 창립 이래 첫 연간 흑자 달성." https://www.betanews.net/article/view/beta202503170023
+6. 아이스크림미디어. (2026년 1월). "2026년 에듀테크 섹터 주도주 리포트." https://eduinfom.com/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC%EB%AF%B8%EB%94%94%EC%96%B4-%EB%A6%AC%ED%8F%AC%ED%8A%B826-01-25-2026%EB%85%84-%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC-%EC%84%B9%ED%84%B0-%EC%A3%BC/
 
 ---
 
