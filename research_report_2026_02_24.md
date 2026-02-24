@@ -106,12 +106,16 @@ k_hop = (2π/ħ) |J|² / √(4πλk_BT) × exp[−(ΔG + λ)² / 4λk_BT]
 **2024년 최신:** 모아레(Moiré) 효과를 이용한 위상 결함 위치 정밀 제어 (*Nature Communications*, 2024)
 
 ## 참고문헌 (주제 1)
-1. Tankelevičiūtė et al. (2024). *Journal of Physical Chemistry Letters*. PMC10839906
-2. Grodd et al. (2023). *Nature Communications*. https://www.nature.com/articles/s41467-023-43840-9
-3. Zhou et al. (2024). *Nature Communications*. https://www.nature.com/articles/s41467-024-45529-z
-4. Kim et al. (2024). *Materials (MDPI)*. https://www.mdpi.com/1996-1944/18/13/3175
-5. Samsung Display. TFE. https://global.samsungdisplay.com/29678/
-6. Bae et al. (2022). *ACS Omega*. https://pubs.acs.org/doi/10.1021/acsomega.2c01128
+1. Tankelevičiūtė et al. (2024). "The Blue Problem: OLED Stability and Degradation Mechanisms." *J. Phys. Chem. Letters*. https://pmc.ncbi.nlm.nih.gov/articles/PMC10839906/
+2. Wu et al. (2025). "Revealing Degradation Mechanism of Blue Fluorescent OLEDs." *Advanced Optical Materials*. https://advanced.onlinelibrary.wiley.com/doi/10.1002/adom.202502150
+3. Grodd et al. (2023). "Direct identification of interfacial degradation in blue OLEDs using nanoscale chemical depth profiling." *Nature Communications*. https://www.nature.com/articles/s41467-023-43840-9
+4. Zhou et al. (2024). "Moiré effect enables versatile design of topological defects in nematic liquid crystals." *Nature Communications*. https://www.nature.com/articles/s41467-024-45529-z
+5. Kim et al. (2024). "Thin-Film Encapsulation for OLEDs and Its Advances: Toward Engineering." *Materials (MDPI)*. https://www.mdpi.com/1996-1944/18/13/3175
+6. Samsung Display. "Thin Film Encapsulation (TFE)." https://global.samsungdisplay.com/29678/
+7. Bae et al. (2022). "CaF₂/ZnS Multilayered Films on Top-Emission OLED." *ACS Omega*. https://pubs.acs.org/doi/10.1021/acsomega.2c01128
+8. Arif et al. (2024). "Electro-Optic Topological Defect Devices Utilizing Nematic LC Binary Mixtures." *Advanced Photonics Research*. https://advanced.onlinelibrary.wiley.com/doi/10.1002/adpr.202300336
+9. Andrade et al. (2024). "Regular arrays of topological defects within nematic liquid crystals." *Liquid Crystals*. https://www.tandfonline.com/doi/full/10.1080/02678292.2024.2392590
+10. Kim et al. (2023). "A Study on Defect Detection in OLED Cells Using Optimal Deep Learning." *Applied Sciences (MDPI)*. https://www.mdpi.com/2076-3417/13/18/10129
 
 ---
 
@@ -192,12 +196,18 @@ Z*(ω) = R_∞ + (R₀ − R_∞) / [1 + (jωτ)^α]
 온도 의존성: `σ(T) ≈ σ(T₀)[1 + α_T(T − T₀)]` — 이온 전도도 +2%/°C 변화
 
 ## 참고문헌 (주제 2)
-1. Nasrollahi et al. (2025). *npj Biomedical Innovations*. https://www.nature.com/articles/s44385-025-00037-7
-2. Xu et al. (2025). *PNAS*. https://www.pnas.org/doi/10.1073/pnas.2504278122
-3. Birgersson et al. (2021). PMC7531215. https://pmc.ncbi.nlm.nih.gov/articles/PMC7531215/
-4. Dekdouk et al. (2023). *Sensors (MDPI)*. https://www.mdpi.com/1424-8220/23/3/1059
-5. Zhang et al. (2025). *Nature Communications*. https://www.nature.com/articles/s41467-025-64207-2
-6. Liu et al. (2024). *Science Advances*. https://www.science.org/doi/10.1126/sciadv.adr9139
+1. Nasrollahi et al. (2025). "Wearable battery-free chip-less patch for bioimpedance measurement of cutaneous lesions." *npj Biomedical Innovations*. https://www.nature.com/articles/s44385-025-00037-7
+2. Xu et al. (2025). "Wireless arm-worn bioimpedance sensor for continuous assessment of whole-body hydration." *PNAS*. https://www.pnas.org/doi/10.1073/pnas.2504278122
+3. Pirkl et al. (2024). "Cole-Cole Model for Dielectric Characterization of Healthy Skin and Basal Cell Carcinoma at THz Frequencies." PMC11342924. https://pmc.ncbi.nlm.nih.gov/articles/PMC11342924/
+4. Birgersson et al. (2021). "Dielectrical Properties of Living Epidermis and Dermis 1 kHz to 1 MHz." PMC7531215. https://pmc.ncbi.nlm.nih.gov/articles/PMC7531215/
+5. Sanchez et al. (2021). "Mechanistic Multilayer Model for Non-invasive Bioimpedance of Intact Skin." PMC7852014. https://pmc.ncbi.nlm.nih.gov/articles/PMC7852014/
+6. Cheng et al. (2024). "A New Technique to Estimate the Cole Model for BIS." PMC11095251. https://pmc.ncbi.nlm.nih.gov/articles/PMC11095251/
+7. Bogonez-Franco et al. (2023). "Skin layer classification by feedforward neural network in BIS." PMC10411641. https://pmc.ncbi.nlm.nih.gov/articles/PMC10411641/
+8. Dekdouk et al. (2023). "Magnetic Induction Tomography: Separation of Ill-Posed and Non-Linear Inverse Problem." *Sensors (MDPI)*. https://www.mdpi.com/1424-8220/23/3/1059
+9. Zhang et al. (2025). "Breathable, wearable skin analyzer for long-term monitoring of skin barrier function." *Nature Communications*. https://www.nature.com/articles/s41467-025-64207-2
+10. Liu et al. (2024). "A wearable triboelectric impedance tomography system for noninvasive imaging." *Science Advances*. https://www.science.org/doi/10.1126/sciadv.adr9139
+11. Adimulam et al. (2025). "Exploring Bio-Impedance Sensing for Intelligent Wearable Devices." PMC12109311. https://pmc.ncbi.nlm.nih.gov/articles/PMC12109311/
+12. Pita-Olmedo et al. (2023). "Electrical impedance spectroscopy for skin layer assessment: A scoping review." *Measurement* (Elsevier). https://www.sciencedirect.com/science/article/abs/pii/S0263224123016755
 
 ---
 
